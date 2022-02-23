@@ -9,6 +9,7 @@ namespace ArraysAndLists
             //TODO:
 
             // Create an int Array and populate numbers 1-10
+            int[] myArray1 = new int[10] { 2, 6, 7, 34, 54, 21, 23, 98, 67, 31 };
 
             /* Create two Lists of type int.
              * Name one List "evens"
